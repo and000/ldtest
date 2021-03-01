@@ -17,7 +17,7 @@
     "dat.gui": "^0.7.7",
     "stats-js": "^1.0.1",
     "test.js": "^1.0.0",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.110.3",
     "victor": "^1.1.0"
   },
